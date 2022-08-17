@@ -4,7 +4,7 @@
 
 # :bulb: Queremos saber de ti
 
-Para nuestro equipo de Estudios y Modelación **estamos en constante búsqueda de talentos**. Si tienes conocimientos en Modelación Ambiental, Desarrollo de Software, Ciencia de Datos u otra disciplina afín, nos gustaría saber de tí.
+Para nuestro equipo de Estudios y Modelación **estamos en constante búsqueda de talentos**. Si tienes conocimientos en Modelación Ambiental, Desarrollo de Software, Ciencia de Datos u otra disciplina afín, nos gustaría saber de ti.
 
 :e-mail: Envíanos tu curriculum a: ```modelacion at cienciambiental.cl```
 
